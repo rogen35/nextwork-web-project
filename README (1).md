@@ -1,6 +1,6 @@
-# Connect a GitHub Repo with AWS – DevOps Challenge Day 2 🚀
+# Connect a GitHub Repo with AWS
 
-**Project 2 of the 7-Day DevOps Challenge**  
+**Project 2   
 Learn the basics of Git, GitHub, and connect your web app to a remote repository for source control.
 
 ---
